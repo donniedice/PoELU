@@ -1,5 +1,5 @@
-## Interface: 20503
-## Version: 1.0.3
+## Interface: 20504
+## Version: 1.0.4
 ## Title:|cffffffffPath of Exile|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!
@@ -7,6 +7,8 @@
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/PoELU
 ## X-Curse-Project-ID: 594588
+## X-Tukui-ProjectID: 234
+## X-Wago-ID: q96dxn6O
 ## X-WoWI-ID: 26262
 
 main.lua
