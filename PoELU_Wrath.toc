@@ -1,6 +1,6 @@
 ## Interface: 30400
-## Version: 1.0.5
-## Title:|cffffffffPath of Exile|r Level Up!
+## Version: 1.0.6
+## Title:|cffb37c44Path of Exile|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!
 
