@@ -1,5 +1,5 @@
 ## Interface: 11404
-## Version: 1.0.7
+## Version: 1.0.8
 ## Title:|cffb37c44Path of Exile|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!

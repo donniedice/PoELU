@@ -1,4 +1,4 @@
--- v1.0.7
+-- v1.0.8
 
 -- Event function level up
 -- Plays a custom sound effect when the player levels up in the game.
